@@ -16,3 +16,9 @@ true
 true
 
 clear();
+var name = "Tai Solarin University of Education"
+undefined
+name =
+"Tai Solarin University of Education"
+
+​
