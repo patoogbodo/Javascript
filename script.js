@@ -21,4 +21,16 @@ undefined
 name =
 "Tai Solarin University of Education"
 
-​
+​prompt()
+"ok pato"
+prompt("what is your age");
+"25"
+var first = prompt("enter first number");
+var second = prompt("enter second number");
+undefined
+first
+"10"
+second
+"20"
+Number(first) + Number(second);
+30 
