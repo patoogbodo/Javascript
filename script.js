@@ -34,3 +34,10 @@ second
 "20"
 Number(first) + Number(second);
 30 
+var first = prompt("enter first number");
+var second = prompt("enter second number");
+var sum = Number(first) + Number(second);
+alert(sum);
+undefined
+sum
+30 
