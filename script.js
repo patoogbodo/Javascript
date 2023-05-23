@@ -41,3 +41,13 @@ alert(sum);
 undefined
 sum
 30 
+if (20 + 20 === 40) || (3*2 === 6){
+    alert("patoo")
+}
+if(name === "abiola"){
+  alert("hi abiola");
+} else {
+    alert("wetin do you ooo")
+}if(name === "simsi" || name === "pato"){
+     alert("hi simsi patrick");
+}
