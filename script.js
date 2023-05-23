@@ -53,4 +53,6 @@ if(name === "abiola"){
 }
 if (firstName === "ogbodo" && lastName ==="simsi"){
   alert("hi ogbodo simsi");
-}
+}if(!(name === "Ella")) {
+    alert("HI Ella")
+ }
