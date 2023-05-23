@@ -39,7 +39,7 @@ var second = prompt("enter second number");
 var sum = Number(first) + Number(second);
 alert(sum);
 undefined
-sum
+sum 
 30 
 if (20 + 20 === 40) || (3*2 === 6){
     alert("patoo")
@@ -50,4 +50,7 @@ if(name === "abiola"){
     alert("wetin do you ooo")
 }if(name === "simsi" || name === "pato"){
      alert("hi simsi patrick");
+}
+if (firstName === "ogbodo" && lastName ==="simsi"){
+  alert("hi ogbodo simsi");
 }
