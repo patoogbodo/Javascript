@@ -56,3 +56,5 @@ if (firstName === "ogbodo" && lastName ==="simsi"){
 }if(!(name === "Ella")) {
     alert("HI Ella")
  }
+ var array [ddig, me, ]
+ var animal = ["dog", "cat", "lion", "sheep"];
